@@ -9,8 +9,7 @@ Step 3. Start a conversation
 Step 4. Ask technical or programming related questions
 
 Screenshots attached
-![Alt text]
-(https://github.com/KritikaVersha/Natural-Language-Processing-Task-Oriented-Dialogue-Bot/blob/master/Screenshot_20190928-125013.png)
+![Alt text](https://github.com/KritikaVersha/Natural-Language-Processing-Task-Oriented-Dialogue-Bot/blob/master/Screenshot_20190928-125013.png?raw=true)
 
 
 
